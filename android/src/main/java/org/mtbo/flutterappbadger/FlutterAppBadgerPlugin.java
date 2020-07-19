@@ -24,7 +24,7 @@ public class FlutterAppBadgerPlugin implements MethodCallHandler {
    * Plugin registration.
    */
   public static void registerWith(Registrar registrar) {
-    final MethodChannel channel = new MethodChannel(registrar.messenger(), "g123k/flutter_app_badger");
+    final MethodChannel channel = new MethodChannel(registrar.messenger(), "progrand/flutter_app_badger");
     channel.setMethodCallHandler(new FlutterAppBadgerPlugin(registrar.activeContext()));
   }
 

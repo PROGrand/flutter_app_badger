@@ -456,7 +456,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/Flutter",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = fr.g123k.flutterappbadger.flutterAppBadgerExample;
+				PRODUCT_BUNDLE_IDENTIFIER = org.mtbo.flutterappbadger.flutterAppBadgerExample;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -480,7 +480,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/Flutter",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = fr.g123k.flutterappbadger.flutterAppBadgerExample;
+				PRODUCT_BUNDLE_IDENTIFIER = org.mtbo.flutterappbadger.flutterAppBadgerExample;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				VERSIONING_SYSTEM = "apple-generic";
 			};

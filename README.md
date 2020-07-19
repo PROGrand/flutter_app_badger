@@ -6,12 +6,12 @@ This plugin for [Flutter](https://flutter.io) adds the ability to change the bad
 It supports iOS and some Android devices (the official API does not support the feature, even on Oreo).
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/g123k/flutter_app_badger/master/assets/ios.png" alt="Android badge" style="margin:auto" width="600" 
+  <img src="https://raw.githubusercontent.com/PROGrand/flutter_app_badger/master/assets/ios.png" alt="Android badge" style="margin:auto" width="600"
 height="228">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/g123k/flutter_app_badger/master/assets/android.png" alt="Android badge" style="margin:auto" width="600" 
+  <img src="https://raw.githubusercontent.com/PROGrand/flutter_app_badger/master/assets/android.png" alt="Android badge" style="margin:auto" width="600"
 height="322">
 </p>
 

@@ -3,7 +3,7 @@
 @implementation FlutterAppBadgerPlugin
 + (void)registerWithRegistrar:(NSObject<FlutterPluginRegistrar>*)registrar {
   FlutterMethodChannel* channel = [FlutterMethodChannel
-      methodChannelWithName:@"g123k/flutter_app_badger"
+      methodChannelWithName:@"progrand/flutter_app_badger"
             binaryMessenger:[registrar messenger]];
   FlutterAppBadgerPlugin* instance = [[FlutterAppBadgerPlugin alloc] init];
   [registrar addMethodCallDelegate:instance channel:channel];

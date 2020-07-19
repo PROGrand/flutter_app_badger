@@ -24,7 +24,7 @@ android {
 
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
-        applicationId "fr.g123k.flutterappbadger.flutterappbadgerexample"
+        applicationId "org.mtbo.flutterappbadger.flutterappbadgerexample"
         minSdkVersion 16
         targetSdkVersion 30
         versionCode 1
