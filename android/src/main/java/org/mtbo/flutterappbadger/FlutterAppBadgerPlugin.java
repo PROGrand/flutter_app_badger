@@ -1,4 +1,4 @@
-package fr.g123k.flutterappbadger;
+package org.mtbo.flutterappbadger;
 
 import android.content.Context;
 
